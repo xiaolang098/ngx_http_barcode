@@ -150,7 +150,8 @@ Context:    location
         barcode;
     } 
     # type can be as following (default 20):
-    1: Code 11 51: Pharma One-Track 90: KIX Code
+    
+1: Code 11 51: Pharma One-Track 90: KIX Code
 2: Standard 2of5 52: PZN 92: Aztec Code
 3: Interleaved 2of5 53: Pharma Two-Track 93: DAFT Code
 4: IATA 2of5 55: PDF417 97: Micro QR Code
