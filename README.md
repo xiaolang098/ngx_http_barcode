@@ -1,5 +1,5 @@
 # ngx http barcode module
-![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build](https://api.travis-ci.org/nginx-lover/ngx_http_barcode.svg)](https://travis-ci.org/nginx-lover/ngx_http_barcode)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nginx-lover/ngx_http_barcode/master/LICENSE)[![release](https://img.shields.io/github/release/nginx-lover/ngx_http_barcode.svg)](https://github.com/nginx-lover/ngx_http_barcode/releases)
+![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![Build](https://api.travis-ci.org/x-v8/ngx_http_barcode.svg)](https://travis-ci.org/x-v8/ngx_http_barcode)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nginx-lover/ngx_http_barcode/master/LICENSE)[![release](https://img.shields.io/github/release/x-v8/ngx_http_barcode.svg)](https://github.com/x-v8/ngx_http_barcode/releases)
 
 
 ngx_http_barcode_module is a an addon for nginx to generate barcode
