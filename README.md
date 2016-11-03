@@ -41,6 +41,7 @@ ngx_http_barcode requires the following to run:
 
  * [nginx](http://nginx.org/) or other forked version like [openresty](http://openresty.org/)、[tengine](http://tengine.taobao.org/)
  * [zint](https://github.com/detailyang/zint) must use this version patched by [detailyang](https://github.com/detailyang), which can generate barcode in memory
+ * [libpng]
 
 Direction
 ------------
